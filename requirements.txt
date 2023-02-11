@@ -1,0 +1,8 @@
+flask
+numpy
+sklearn
+tensorflow
+cv2
+pandas
+urllib
+werkzeug
